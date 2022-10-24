@@ -1,0 +1,18 @@
+Exo1:
+run
+
+Exo2:
+from datetime import datetime
+now = datetime.now()
+print now
+
+Exo3:
+from datetime import datetime
+now = datetime.now()
+print now
+print now.year
+print now.month
+print now.day
+
+Exo4:
+
